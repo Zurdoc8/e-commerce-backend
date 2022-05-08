@@ -19,7 +19,7 @@
   > 2. Launch application in preferred coding app (i.e. VS Code)
   > 3. Run installs (npm install, npm install inquirer, npm install mysql2, npm install sequelize), and confirm that dependencies are now available.
   > 4. Create a new .env file and fill in DB_NAME DB_USER and DB_PW
-  > 5. ru==Run command npm run seed to seed the data into database
+  > 5. Run command npm run seed to seed the data into database
   > 6. Once databases have been seeded run command node server.js and confirm application is listening on port.
   > 7. Launch insomnia to test the different routes (CRUD). 
   
